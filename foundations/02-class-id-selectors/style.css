@@ -1,0 +1,16 @@
+p {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#cake {
+    font-size: 36px;
+    color: blue;
+
+}
+.orange {
+    font-size: 24px;
+}
+#duke {
+    background-color: lightgreen;
+    font-weight: 700;
+}
